@@ -1,0 +1,26 @@
+{
+    "id": "163F53BE",
+    "path": "C:/Users/cdawg/git_repos/time_series/01_jumpstart/00_data_overview.R",
+    "project_path": "01_jumpstart/00_data_overview.R",
+    "type": "r_source",
+    "hash": "412828812",
+    "contents": "",
+    "dirty": false,
+    "created": 1681794450848.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,58",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681795484,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681795484238,
+    "read_only": false,
+    "read_only_alternatives": []
+}
