@@ -1,0 +1,28 @@
+{
+    "id": "5B376E8C",
+    "path": "C:/Users/cdawg/git_repos/time_series/01_jumpstart/01_jumpstart.R",
+    "project_path": "01_jumpstart/01_jumpstart.R",
+    "type": "r_source",
+    "hash": "637069953",
+    "contents": "",
+    "dirty": false,
+    "created": 1681946289124.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "176,26",
+        "scrollLine": "144",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681949467,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681949467802,
+    "read_only": false,
+    "read_only_alternatives": []
+}
